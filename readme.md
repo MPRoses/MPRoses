@@ -1,14 +1,12 @@
-# Hello, world! 👋
+# Featuring, me 👋
 
-I'm an 18-year-old web developer, currently pursuing a degree in Computer Science at Leiden University. 🎓
+I'm an 18-year-old  developer, currently pursuing a degree in Computer Science at Leiden University. 🎓
 
 Even though my GitHub contributions might not be daily, rest assured, I’m making dreams come true every day. 🚀
 
 I specialize in creating efficient user experiences on the web and I'm always open for collaboration on innovative projects. 💡
 
-For further inquiries, check out my personal website noted below. 🌍
-
-Happy exploring! 🎉
+For further inquiries, check out my personal website noted below.
 
 ## Skills 🛠️
 
@@ -25,3 +23,8 @@ These are my most prominent abilities most of which I've worked with for over 3 
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=Blender)
 ![Spline](https://img.shields.io/badge/-Spline-FF6C37?style=flat)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+
+## Portfolio Website 🌐
+
+![Portfolio](1.png)
+Happy exploring! 🎉
