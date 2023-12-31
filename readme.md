@@ -12,16 +12,6 @@ Happy exploring! 🎉
 
 ## Skills 🛠️
 
-These are some of the major technologies that I work with:
+These are some of the major technologies that I work with and I prize as my prominent abilities:
 
-!HTML
-!CSS
-!JavaScript
-!React
-!Nodejs
-!Photoshop
-!Figma
-!After Effects
-!Blender
-!Spline
-!C++
+[HTML5][https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white]
