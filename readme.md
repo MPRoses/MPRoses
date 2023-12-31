@@ -26,5 +26,5 @@ These are my most prominent abilities most of which I've worked with for over 3 
 
 ## Portfolio Website 🌐
 
-![Portfolio](1.png)
+[![Portfolio](1.png)](https://www.jensvandersloot.nl)
 Happy exploring! 🎉
