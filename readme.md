@@ -18,3 +18,7 @@ These are my most prominent abilities most of which I've worked with for over 3 
 
 [![Portfolio](1.png)](https://www.jensvandersloot.nl)
 Happy exploring! 🎉
+
+## Most recent project | Cursor Pursuit 🌐
+
+![Cursor Pursuit](https://github.com/MPRoses/MPRoses/assets/106508255/70257a50-8f46-4966-bcc9-8c22059bccaa)(https://www.cursorpursuit.nl)
