@@ -21,4 +21,4 @@ Happy exploring! 🎉
 
 ## Most recent project | Cursor Pursuit 🌐
 
-![Cursor Pursuit](https://github.com/MPRoses/MPRoses/assets/106508255/70257a50-8f46-4966-bcc9-8c22059bccaa)(https://www.cursorpursuit.nl)
+[![Cursor Pursuit](https://github.com/MPRoses/MPRoses/assets/106508255/70257a50-8f46-4966-bcc9-8c22059bccaa)](https://www.cursorpursuit.nl)
