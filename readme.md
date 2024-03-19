@@ -12,7 +12,7 @@ For further inquiries, check out my personal website noted below.
 
 These are my most prominent abilities most of which I've worked with for over 3 years now. My newest prize is Spline, a 3d animation tool with amazingly efficient and really cool abilities.
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,eclipse,java,nodejs,js,ps,ae,blender,react,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,eclipse,java,nodejs,py,js,ps,ae,blender,react,figma&theme=dark)](https://skillicons.dev)
 
 ## Portfolio Website 🌐
 
