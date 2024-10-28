@@ -1,6 +1,6 @@
 # Featuring, me 👋
 
-I'm an 18-year-old  developer, currently pursuing a degree in Computer Science at Leiden University. 🎓
+I'm an 19-year-old  developer, currently pursuing a degree in Computer Science at Leiden University. 🎓
 
 Even though my GitHub contributions might not be daily, rest assured, I’m making dreams come true every day. 🚀
 
